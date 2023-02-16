@@ -1,0 +1,6 @@
+print("This is my first file in python class")
+print(30*5)
+print("multiplication in python" )
+print(30*9)
+print(30+5)
+print()
